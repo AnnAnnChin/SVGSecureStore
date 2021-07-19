@@ -1,0 +1,68 @@
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\bin\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\bin\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Form1.resources
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Properties.Resources.resources
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\AppData\Local\Temporary Projects\SVGSecureStore\obj\x86\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Properties.Resources.resources
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.LoginForm.resources
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.AdminForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.SupervisorForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.LoginForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.OfficerForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Properties.Resources.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserMainForm.resources
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserForm.resources
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientMainForm.resources
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe.config
+C:\Users\Asus Administrator\documents\visual studio 2010\Projects\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ResetPassword.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe.config
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ResetPassword.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserMainForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientMainForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.LoginForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Properties.Resources.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_180317\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe.config
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.exe
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\bin\Debug\SVGSecureStore.pdb
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ResetPasswordForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserMainForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.UserForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientMainForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.ClientForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.LoginForm.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\SVGSecureStore.Properties.Resources.resources
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus Administrator\Desktop\SVGSecureStore_Alpha_\SVGSecureStore\SVGSecureStore\obj\x86\Debug\GenerateResource.write.1.tlog
